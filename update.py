@@ -8,8 +8,8 @@ import socket
 import sys
 
 port = 22
-user = "root"
-senha = "root"
+user = "USUARIO"
+senha = "SENHA"
 
 
 if len(sys.argv) <= 3:
